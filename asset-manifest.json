@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AhmedNegm99/react_project/static/css/main.420bf28e.css",
-    "main.js": "/AhmedNegm99/react_project/static/js/main.ab0459d2.js",
-    "static/js/787.2808ecaf.chunk.js": "/AhmedNegm99/react_project/static/js/787.2808ecaf.chunk.js",
-    "index.html": "/AhmedNegm99/react_project/index.html",
-    "main.420bf28e.css.map": "/AhmedNegm99/react_project/static/css/main.420bf28e.css.map",
-    "main.ab0459d2.js.map": "/AhmedNegm99/react_project/static/js/main.ab0459d2.js.map",
-    "787.2808ecaf.chunk.js.map": "/AhmedNegm99/react_project/static/js/787.2808ecaf.chunk.js.map"
+    "main.css": "/react_pro/static/css/main.420bf28e.css",
+    "main.js": "/react_pro/static/js/main.abe805d7.js",
+    "static/js/787.2808ecaf.chunk.js": "/react_pro/static/js/787.2808ecaf.chunk.js",
+    "index.html": "/react_pro/index.html",
+    "main.420bf28e.css.map": "/react_pro/static/css/main.420bf28e.css.map",
+    "main.abe805d7.js.map": "/react_pro/static/js/main.abe805d7.js.map",
+    "787.2808ecaf.chunk.js.map": "/react_pro/static/js/787.2808ecaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.420bf28e.css",
-    "static/js/main.ab0459d2.js"
+    "static/js/main.abe805d7.js"
   ]
 }
